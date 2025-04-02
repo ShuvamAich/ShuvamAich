@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://shuvamaich.wixsite.com/myblogs](https://shuvamaich.wixsite.com/myblogs)
 
-- 💬 Ask me about **ReactJS, HTML, CSS, JavaScript, Front End Development, Web Design, C, C++, Java, Deep Learning using CNNS, selenium (basic), cypress.io**
+- 💬 Ask me about **Automation, DevOps, ReactJS, HTML, CSS, JavaScript, Front End Development, Web Design, C, C++, Java, Deep Learning using CNNS, Selenium, Cypress and Playwright**
 
 - 📫 How to reach me **shuvamaich10@gmail.com**
 
