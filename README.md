@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvamaich&label=Profile%20views&color=0e75b6&style=flat" alt="shuvamaich" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 📝 I regularly write articles on [https://shuvamaich.wixsite.com/myblogs](https://shuvamaich.wixsite.com/myblogs)
 
